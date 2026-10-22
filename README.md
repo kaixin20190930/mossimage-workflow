@@ -6,7 +6,7 @@ Ready-to-use ComfyUI workflow for [MOSS-Image](https://arxiv.org/abs/2610.23374)
 
 1. Install [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 2. Install the MOSS-Image custom node via ComfyUI Manager (search "MOSS-Image")
-3. Download `[moss-image-workflow.json](https://github.com/kaixin20190930/mossimage-workflow/blob/main/moss-image-workflow.json)` from this repo
+3. Download | [moss-image-workflow.json](https://github.com/kaixin20190930/mossimage-workflow/blob/main/moss-image-workflow.json) | from this repo
 4. Drag it into ComfyUI
 5. Load MOSS-Image-SFT model, enter your prompt, hit Queue
 
