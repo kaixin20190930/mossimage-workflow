@@ -17,7 +17,7 @@ Ready-to-use ComfyUI workflow for [MOSS-Image](https://arxiv.org/abs/2610.23374)
 | License | Apache 2.0 | — |
 | Best for | General generation | Text rendering, JSON layout |
 | Deploy | Self-host | Self-host or [fal.ai API](https://fal.ai/models/fal-ai/moss-image) |
-| Download | [HuggingFace]((https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base)) | — |
+| Download | [HuggingFace](https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base) | — |
 
 ## JSON Layout — Why This Matters
 
