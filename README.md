@@ -1,5 +1,9 @@
 # MOSS-Image ComfyUI Workflow
 
+## Workflow downloads and installation guide
+
+See the [MOSS-Image workflow guide](https://mossimage.run/workflows/) for separately labeled native ComfyUI SFT and optional HF-directory Base workflows, upstream sources, installation steps, and troubleshooting. Choose the complete graph that matches your loader and model format; the JSON in this repository uses `MOSSImageHFLoader` and a local Base model directory.
+
 Ready-to-use ComfyUI workflow for [MOSS-Image](https://arxiv.org/abs/2610.23374) — the 5B open-source diffusion model with JSON layout control and Chinese/English text rendering (Apache 2.0).
 
 ## Quick Start
@@ -46,7 +50,7 @@ The model places each object exactly where specified. JSON layout is ~80% accura
 
 ## Try Online (No Setup)
 
-👉 **[mossimage.run](https://mossimage.run)** — Free MOSS-Image Generator, 3 images/day, no sign-up
+👉 **[mossimage.run](https://mossimage.run)** — Independent MOSS-Image studio; see the website for current starter credits and pricing
 
 ## More Resources
 
